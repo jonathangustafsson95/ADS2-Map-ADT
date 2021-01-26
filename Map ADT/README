@@ -1,0 +1,4 @@
+BST:
+
+Vi har lagt in en if sats som bryter loopen vid testkörning av BSTMap, eftersom får recursion depth error för stora element.
+Se rad 53 i experimentRunner.

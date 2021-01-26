@@ -1,0 +1,8 @@
+Det är nycklarna som skall vara sorterade va (i arraymap)? JA
+Kan vi ha en hash funktion som bara kör % hash_table_size på nycklarna? JA
+Kan man deklarera en lista statiskt i python? Typ, genom att göra så att den inte kan bli större än en viss storlek =)
+
+AVL!
+Särbehandla BST pga. recursion depth. // OK
+Större max n // NO PROBLEM
+storlek på input genom 10 för max n hash size // OK
